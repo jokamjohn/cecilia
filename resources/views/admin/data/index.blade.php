@@ -32,10 +32,10 @@
                                         {{ $item->temperature }}
                                     </td>
 
-
                                     <td>
                                         {{ $item->humidity }}
                                     </td>
+
                                 </tr>
                             @endforeach
 
