@@ -8,20 +8,20 @@
                         Home
                     </a>
                 </li>
-                <li>
-                    <a href="#">
-                        Blog
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        Terms
-                    </a>
-                </li>
+                {{--<li>--}}
+                    {{--<a href="#">--}}
+                        {{--Blog--}}
+                    {{--</a>--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--<a href="#">--}}
+                        {{--Terms--}}
+                    {{--</a>--}}
+                {{--</li>--}}
             </ul>
         </nav>
         <div class="copyright pull-right">
-            &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by Ceaser & Galiwango Ronald</a>
+            &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by Cecilia & Robina</a>
         </div>
     </div>
 </footer>

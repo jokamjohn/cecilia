@@ -18,9 +18,8 @@
                             <thead>
                             <tr>
                                 <th>Date</th>
-                                <th>Meter Number</th>
-                                <th>Voucher Loaded</th>
-                                <th>Current Units</th>
+                                <th>Temperature</th>
+                                <th>Humidity</th>
                             </tr>
                             </thead>
                             @foreach($data as $item)
@@ -30,16 +29,12 @@
                                     </td>
 
                                     <td>
-                                        {{ $item->meterNumber }}
+                                        {{ $item->temperature }}
                                     </td>
 
 
                                     <td>
-                                        {{ $item->voucher}}
-                                    </td>
-
-                                    <td>
-                                        {{ $item->currentUnits }}
+                                        {{ $item->humidity }}
                                     </td>
                                 </tr>
                             @endforeach

@@ -7,7 +7,7 @@
 
     <div class="sidebar-wrapper">
         <div class="logo">
-            Prepaid Water Management
+            Transformer Breather
         </div>
 
         <ul class="nav">
@@ -17,42 +17,42 @@
                     <p>Dashboard</p>
                 </a>
             </li>
-            <li>
-                <a href="#">
-                    <i class="ti-user"></i>
-                    <p>Users</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="ti-view-list-alt"></i>
-                    <p>Something</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="ti-text"></i>
-                    <p>Reports</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="ti-pencil-alt2"></i>
-                    <p>Icons</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="ti-map"></i>
-                    <p>Something</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <i class="ti-bell"></i>
-                    <p>Notifications</p>
-                </a>
-            </li>
+            {{--<li>--}}
+                {{--<a href="#">--}}
+                    {{--<i class="ti-user"></i>--}}
+                    {{--<p>Users</p>--}}
+                {{--</a>--}}
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="#">--}}
+                    {{--<i class="ti-view-list-alt"></i>--}}
+                    {{--<p>Something</p>--}}
+                {{--</a>--}}
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="#">--}}
+                    {{--<i class="ti-text"></i>--}}
+                    {{--<p>Reports</p>--}}
+                {{--</a>--}}
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="#">--}}
+                    {{--<i class="ti-pencil-alt2"></i>--}}
+                    {{--<p>Icons</p>--}}
+                {{--</a>--}}
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="#">--}}
+                    {{--<i class="ti-map"></i>--}}
+                    {{--<p>Something</p>--}}
+                {{--</a>--}}
+            {{--</li>--}}
+            {{--<li>--}}
+                {{--<a href="#">--}}
+                    {{--<i class="ti-bell"></i>--}}
+                    {{--<p>Notifications</p>--}}
+                {{--</a>--}}
+            {{--</li>--}}
         </ul>
     </div>
 </div>
