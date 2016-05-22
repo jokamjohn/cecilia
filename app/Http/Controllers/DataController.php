@@ -16,7 +16,7 @@ class DataController extends Controller
      */
     public function index()
     {
-        $data = Data::paginate();
+        $data = Data::latest()->paginate();
 
         return view('admin.data.index', compact('data'));
     }
