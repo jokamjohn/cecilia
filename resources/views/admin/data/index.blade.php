@@ -25,7 +25,7 @@
                             @foreach($data as $item)
                                 <tr>
                                     <td>
-                                        {{ $item->date->toDateString() }}
+                                        {{ $item->created_at->toDateString() }}
                                     </td>
 
                                     <td>
